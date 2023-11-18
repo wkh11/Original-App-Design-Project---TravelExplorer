@@ -99,11 +99,11 @@ TravelExplorer is a travel app that provides users with travel itineraries, dest
 ## Schema 
 
 <div>
-    <a href="https://www.loom.com/share/00d2076b372c4deca5798a4a65dcba4e">
+    <a href="https://www.loom.com/share/070b7312e364478abb6f116aff9d8557">
       <p>Loom Message - 17 November 2023 - Watch Video</p>
     </a>
-    <a href="https://www.loom.com/share/00d2076b372c4deca5798a4a65dcba4e">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/00d2076b372c4deca5798a4a65dcba4e-with-play.gif">
+    <a href="https://www.loom.com/share/070b7312e364478abb6f116aff9d8557">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/070b7312e364478abb6f116aff9d8557-with-play.gif">
     </a>
   </div>
 

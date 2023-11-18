@@ -98,7 +98,7 @@ TravelExplorer is a travel app that provides users with travel itineraries, dest
 
 ## Schema 
 
-[This section will be completed in Unit 9]
+<div style="position: relative; padding-bottom: 215.27093596059115%; height: 0;"><iframe src="https://www.loom.com/embed/00d2076b372c4deca5798a4a65dcba4e?sid=abac6e49-f0e0-4858-bf8d-94f9fe9120b7" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ### Models
 
